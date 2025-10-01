@@ -1,0 +1,15 @@
+SE203557, Nguyen Hung Cuong, 0983717453, nghcuong45@gmail.com, MT03, 3900000.0
+HE192031, Phan Thien, 0983128332, pthien@gmail.com, MT05, 3900000.0
+SE202184, Truong Vo Quynh Thi, 0978312352, tvqthi@gmail.com, MT03, 3900000.0
+DE192832, Nguyen Ngoc Quy, 0983712324, nnquy@gmail.com, MT11, 3900000.0
+CE201293, Nguyen Khoa Dien, 0293814392, nkdien@gmail.com, MT07, 6000000.0
+QE201932, Le Hong Quan, 0394892923, lhquan@gmail.com, MT07, 3900000.0
+CE193832, Phan Phuc Nguyen, 0298829312, ppnguyen@gmail.com, MT09, 6000000.0
+SE192832, Pham Quang Minh, 0298448213, pqminh@gmail.com, MT04, 6000000.0
+HE203948, Nguyen The Triet, 0918312489, nttriet@gmail.com, MT05, 3900000.0
+HE201938, Le Ngan, 0192838192, lngan@gmail.com, MT05, 6000000.0
+SE201838, Nguyen Mai Trieu, 0293829819, nmtrieu@gmail.com, MT12, 6000000.0
+QE198201, Nguyen Trung Nghia, 0839281289, ntnghia@gmail.com, MT12, 3900000.0
+SE198028, Vo Khac Huy, 0938218492, vkhuy@gmail.com, MT03, 6000000.0
+HE203124, Nguyen Ha Tien Dat, 0984284123, nhtdat@gmail.com, MT02, 3900000.0
+HE204125, Nguyen Hoang An, 0931831953, anhoang@gmail.com, MT04, 6000000.0
