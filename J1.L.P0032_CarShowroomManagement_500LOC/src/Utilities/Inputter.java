@@ -1,0 +1,47 @@
+
+package Utilities;
+
+import java.util.Scanner;
+
+public class Inputter {
+    private final static Scanner sc = new Scanner(System.in);
+
+    public static String getString(String displayMessage) {
+        String strInput;
+        System.out.print(displayMessage);
+        strInput = getString();
+        return strInput;
+    }
+
+    public static int getIntegerNumber() throws Exception {
+        int number = 0;
+        String strInput;
+        strInput = getString();
+        if (!Validation.checkStringWithFormat(strInput, "\\d{1,10}")) {
+            throw new Exception("Data invalid.");
+        } else {
+            number = Integer.parseInt(strInput);
+        }
+        return number;
+    }
+
+    public static String getString() {
+        String strInput;
+        Scanner sc = new Scanner(System.in);
+        strInput = sc.nextLine();
+        return strInput;
+    }
+
+    public static double getDoubleNumber(String displayMessage) throws Exception {
+        double number = 0;
+        String strInput = getString(displayMessage);
+        if (Validation.checkStringEmpty(strInput)) {
+            if (!Validation.checkStringWithFormat(strInput, "[0-9]+[.]?[0-9]*")) {
+                throw new Exception("Invalid price input");
+            } else {
+                number = Double.parseDouble(strInput);
+            }
+        }
+        return number;
+    }
+}
