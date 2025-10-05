@@ -14,7 +14,7 @@ This repository contains source code for LAB211 at FPT HCM - FALL25.
 - **V2**:  
   - Shorter and cleaner code structure  
   - Stronger validation with more precise checks  
-  - Uses advanced algorithms and optimization techniques  
+  - Uses better algorithms and may be better optimization too  
   - Easier to read, maintain, and extend  
 
 > **Recommendation:** Use **V2** if you want cleaner, optimized, and more reliable code.
