@@ -1,6 +1,7 @@
 # LAB211 - FPT HCM - FALL25
 
 This repository contains source code for LAB211 at FPT HCM - FALL25.
+- **Report for CarShowRoom only with diagram, flow-chart**
 
 ## Lecturer
 - KiemHH
